@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning **MongoDB, NodeJS, React**
 
-- 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
-
+<!-- - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
+ -->
 - 📝 I sometimes write blogs on [https://www.blogger.com/profile/01456566681335399861](https://www.blogger.com/profile/01456566681335399861)
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript, Flutter**
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu sharma" height="30" width="40" /></a>
-<a href="https://fb.com/priyanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-sharma-3541811b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100041536204667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshusharmaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshusharmaa__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/priyanshu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyanshu sharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@priyanshusharma4354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="priyanshu sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
