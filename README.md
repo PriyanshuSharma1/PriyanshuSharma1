@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
  -->
-- 📝 I sometimes write blogs on [https://www.blogger.com/profile/01456566681335399861](https://www.blogger.com/profile/01456566681335399861)
+- 📝 I sometimes write blogs on [https://priyanshu.com.np/blog-2/](https://priyanshu.com.np/blog-2/)
 
 - 💬 Ask me about **C, C++, HTML, CSS, Javascript, Flutter**
 
