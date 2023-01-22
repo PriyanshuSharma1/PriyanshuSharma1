@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Projects](https://github.com/PriyanshuSharma1/Projects)
 
-- 🌱 I’m currently learning **MongoDB, NodeJS, React**
 
 <!-- - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
  -->
