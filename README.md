@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusharma1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusharma1" /> </p>
 
 - 🔭 I’m currently working on [Projects](https://github.com/PriyanshuSharma1/Projects)
-
+- 🧚 You can encounter my fun and creative side on [Priyanshu Sharma Unplugged] (https://www.youtube.com/@priyanshusharma4354)
 
 <!-- - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
  -->
