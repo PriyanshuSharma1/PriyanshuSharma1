@@ -1,20 +1,18 @@
 
-<h1 align="center">Hey, 🙋‍♀️ !</h1>
+<h1 align="center">こにちわ！どじょよろしくおねがいします。</h1>
 <h3 align="center">A data science enthusiast and passionate front-end developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/89/df/03/89df03efbee79d7aaf838ee0041187c4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusharma1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusharma1" /> </p>
-
-- 🔭 I’m currently working on [biteBuddy](https://github.com/biteBuddy)
+- 🔭 I’m currently working on [GovToken-Gamified-Governance-With-Blockchain]([https://github.com/GovToken-Gamified-Governance-With-Blockchain])
 - 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@priyanshusharma4354)
 
 <!-- - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
  -->
 - 📝 I sometimes write blogs on [https://priyanshu.com.np/blog-2/](https://priyanshu.com.np/blog-2/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Flutter**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Dart **
 
-- 📫 How to reach me **priyanshusharmak7@gmail.com**
+- 📫 Reach out to me on **priyanshusharmak7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
