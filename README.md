@@ -1,7 +1,6 @@
 
-<h1 align="center">こにちわ！どじょよろしくおねがいします。</h1>
+<h1 align="center"> こにちわ！どじょよろしくおねがいします。</h1>
 
-<h3 align="center">A data science enthusiast and passionate front-end developer.</h3>
 
 - 🔭 I’m currently working on [GovToken-Gamified-Governance-With-Blockchain](https://github.com/GovToken-Gamified-Governance-With-Blockchain)
 - 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@priyanshusharma4354)
