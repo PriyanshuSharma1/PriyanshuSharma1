@@ -8,7 +8,7 @@
  -->
 - 📝 I sometimes write blogs on [https://priyanshu.com.np/blog-2/](https://priyanshu.com.np/blog-2/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Dart**
+- 💬 Ask me about **C, C++, HTML, CSS, Javascript, Dart, Python**
 
 - 📫 Reach out to me on **priyanshusharmak7@gmail.com**
 
