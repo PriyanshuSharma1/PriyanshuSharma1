@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusharma1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusharma1" /> </p>
 
-- 🔭 I’m currently working on [GovToken-Gamified-Governance-With-Blockchain](https://github.com/GovToken-Gamified-Governance-With-Blockchain)
+- 🔭 I’m currently working on [Tomato-Disease-Classification](https://github.com/PriyanshuSharma1/tomato-disease-classification)
 
-- 🌱 I’m currently learning **React Native, Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, React Native**
 
 - 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@priyanshusharma4354)
 
