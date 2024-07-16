@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
 
-- 📝 I regularly write articles on [https://priyanshu.com.np/blog-2/](https://priyanshu.com.np/blog/)
+- 📝 I regularly write articles on [https://priyanshu.com.np/blog/](https://priyanshu.com.np/blog/)
 
 - 📫 Reach me **priyanshusharmak7@gmail.com**
 
