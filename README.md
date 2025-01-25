@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusharma1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusharma1" /> </p>
 
-- 🔭 I’m currently working on [Medical-Access-Service-System-MASS](https://github.com/PriyanshuSharma1/Medical-Access-Service-System-MASS)
+- 🔭 I’m currently working on [medicine](https://github.com/PriyanshuSharma1/Medical-Access-Service-System-MASS)
 
 - 🌱 I’m currently learning **Deep Learning, React Native**
 
