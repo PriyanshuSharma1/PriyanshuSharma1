@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@normalroute)
+- 🧚 You can encounter my fun and creative side on [Normal Route](https://www.youtube.com/@normalroute)
 
 - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
 
