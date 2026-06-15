@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusharma1&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusharma1" /> </p>
 
-- 🔭 I’m currently working on [medicine](https://github.com/PriyanshuSharma1/Medical-Access-Service-System-MASS)
+- 🔭 I’m currently working on [mimic markets](https://github.com/TheSupermanish/mimic-markets)
+  
+- 🕸️ You can find my web3 proof of work on [superteam earn](https://superteam.fun/earn/t/lilyth)
 
-- 🌱 I’m currently learning **Deep Learning, React Native**
+- 🌱 I’m currently learning **Rust**
 
-- 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@priyanshusharma4354)
+- 🧚 You can encounter my fun and creative side on [PriyanshuSharmaUnplugged](https://www.youtube.com/@normalroute)
 
 - 👨‍💻 All of my projects are available at [https://priyanshu.com.np/portfolio/](https://priyanshu.com.np/portfolio/)
 
 - 📝 I regularly write articles on [https://priyanshu.com.np/blog/](https://priyanshu.com.np/blog/)
 
-- 📫 Reach me **priyanshusharmak7@gmail.com**
+- 📫 Reach me **0xlilyth@gmail.com**
 
 - ⚡ Fun fact **I dream with open eyes**
 
