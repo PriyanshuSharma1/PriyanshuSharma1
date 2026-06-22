@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [mimic markets](https://github.com/TheSupermanish/mimic-markets)
   
-- 🕸️ You can find my web3 proof of work on [superteam earn](https://superteam.fun/earn/t/lilyth)
-
 - 🌱 I’m currently learning **Rust**
 
 - 🧚 You can encounter my fun and creative side on [Normal Route](https://www.youtube.com/@normalroute)
